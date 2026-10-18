@@ -1,0 +1,44 @@
+{
+    "1": {
+        "name": "TASK-1",
+        "deadline": "18-10-2026 23:59",
+        "completed": true,
+        "priority": "HIGH",
+        "category": "Academics"
+    },
+    "2": {
+        "name": "TASK-2",
+        "deadline": "17-10-2026 18:00",
+        "completed": false,
+        "priority": "HIGH",
+        "category": "Development"
+    },
+    "3": {
+        "name": "TASK-3",
+        "deadline": "19-10-2026 12:00",
+        "completed": false,
+        "priority": "HIGH",
+        "category": "Academics"
+    },
+    "4": {
+        "name": "TASK-4",
+        "deadline": "16-10-2026 20:00",
+        "completed": false,
+        "priority": "MEDIUM",
+        "category": "Study"
+    },
+    "5": {
+        "name": "TASK-5",
+        "deadline": "20-10-2026 20:00",
+        "completed": false,
+        "priority": "HIGH",
+        "category": "Academics"
+    },
+    "6": {
+        "name": "TASK-6",
+        "deadline": "24-10-2026 10:00",
+        "completed": false,
+        "priority": "HIGH",
+        "category": "Academics"
+    }
+}
